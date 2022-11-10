@@ -9,4 +9,4 @@ citation: ' Mohammad Babar,  Hasnain Hafiz,  Zeeshan Ahmad,  Bernardo Barbiellin
 ---
 We used first principle DFT to probe the possibility of oxygen redox from disorder and (anionic/cationic) doping in the excess Lithium Vanadium Oxide. We also quantified the ease of Lithium diffision in disorder for fast charging applications. <br />
 
-[Access paper here](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c03345){:target="_blank"}
+#[Access paper here](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c03345){:target="_blank"}
