@@ -9,7 +9,7 @@ author_profile: true
 
 I served as a teaching assistant to Prof. Grigorios Panagakos in an undergraduate Fluid Mechanics course. Responsibilities included teaching recitations, writing assignments and holding office hours every week. Also supported the development of course materials (midterm questions, grading, etc..)
 
-This course was delivered virtually, and the lectures can be found [online](https://www.andrew.cmu.edu/user/venkatv/24643/index.html)
+<!-- This course was delivered virtually, and the lectures can be found [online](https://www.andrew.cmu.edu/user/venkatv/24643/index.html) -->
 
 <br />
 <br />
