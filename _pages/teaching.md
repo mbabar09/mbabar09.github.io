@@ -7,7 +7,7 @@ author_profile: true
 
 **TA: 24-231 Fluid Mechanics**, *Carnegie Mellon University*, Pittsburgh, PA. (2021) 
 
-I served as a teaching assistant to Prof. Grigorios Panagakos in an undergraduate Fluid Mechanics course. Responsibilities included teaching recitations, writing assignments and holding office hours every week. Also supported the development of course materials (midterm questions, grading, etc..)
+I served as a teaching assistant to Prof. Grigorios Panagakos in an undergraduate Fluid Mechanics course. Responsibilities included teaching recitations, writing assignments and holding office hours every week. Also supported course grading and midterm questions. 
 
 <!-- This course was delivered virtually, and the lectures can be found [online](https://www.andrew.cmu.edu/user/venkatv/24643/index.html) -->
 
