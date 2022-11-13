@@ -14,7 +14,7 @@ I'm a PhD candidate in [Prof. Venkatasubramanian Viswanathan's group](https://ww
 - **PhD Mechanical Engineering, Carnegie Mellon University** 2019 - present
 - **B.tech Mechanical Engineering, Indian Institute Technology Delhi** 2015-2019
 
-# Research at a glance
+# Research 
 - Investigation of anionic redox in lithium transition metal oxides 
 - Electrochemical kinetics in twisted flat band systems
 - Machine learning energy materials using DFT
