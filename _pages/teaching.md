@@ -16,11 +16,11 @@ I served as a teaching assistant to Prof. Grigorios Panagakos in an undergraduat
 
 **TA: MTL 101 Linear Algebra and Differential Equations**, *Indian Institute of Technology*, Delhi (2019)
 
-I served as a teaching assistant to Prof. S.C.S. Rao in an undergraduate first year mathematics course. Responsibilities included teaching recitations and grading assignments and examinations.
+I served as a teaching assistant to Prof. S.C.S. Rao in an undergraduate first year mathematics course. Responsibilities included teaching recitations, grading assignments and examinations.
 
 <br />
 <br />
 
 **TA: MTL 101 Linear Algebra and Differential Equations**, *Indian Institute of Technology*, Delhi (2018)
 
-I served as a teaching assistant to Prof. R.K. Sharma in an undergraduate first year mathematics course. Responsibilities included teaching recitations and grading assignments and examinations.
+I served as a teaching assistant to Prof. R.K. Sharma in an undergraduate first year mathematics course. Responsibilities included teaching recitations, grading assignments and examinations.
