@@ -32,15 +32,6 @@ author_profile: true
 <br />
 <br />
 
-- **2021: CMU MechE Symposium Best Poster Award**
-
-  An accurate machine learning calculator for the lithium-graphite system
-
-  [read more](https://www.meche.engineering.cmu.edu/news/2021/04/virtual-research-symposia.html)
-    
-<br />
-<br />
-
 - **2019: Undergraduate Teaching Assistantship Scholarship**
 
   Semester tuition fees waiver for assistantship in teaching Linear Algebra and Differential Equations course 
