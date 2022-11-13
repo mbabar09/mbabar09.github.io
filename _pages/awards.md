@@ -39,7 +39,7 @@ author_profile: true
 <br />
 <br />
 
-- **2019: Merit Award for Three Consecutive Semesters**
+- **2019: Undergraduate Merit Award for Three Consecutive Semesters**
 
   Bieng in top 5% of the department in terms of academic performance. 
  
