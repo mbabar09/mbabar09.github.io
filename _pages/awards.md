@@ -7,7 +7,7 @@ author_profile: true
 
 - **2022: PQI Conference Best Poster Award**
 
-    Effect of Disorder and Doping on Electronic Structure of Li3V2O5
+    Effect of Disorder and Doping on Electronic Structure of Li<sub>3</sub>V<sub>2</sub>O<sub>5</sub>
 
     [read more](https://www.pqi.org/news/pqi-2022-poster-award-winners)
 
