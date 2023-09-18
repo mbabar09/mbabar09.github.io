@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in [Prof. Venkatasubramanian Viswanathan's group](https://www.cmu.edu/me/venkatgroup/) in the department of Mechanical Engineering at Carnegie Mellon University. My broad interests are in electrochemical kinetics, solid state physics, machine learning and density functional theory in energy materials. 
+I'm a PhD candidate in [Prof. Venkatasubramanian Viswanathan's group](https://www.cmu.edu/me/venkatgroup/) in the department of Mechanical Engineering at University of Michigan. My broad interests are in electrochemical kinetics, solid state physics, machine learning and density functional theory in energy materials. 
 
 # Bio
-- **PhD Mechanical Engineering, Carnegie Mellon University** 2019 - present
+- **PhD Mechanical Engineering, University of Michigan** 2023 - present
+- **M.S Mechanical Engineering, Carnegie Mellon University** 2019 - 2023
 - **B.tech Mechanical Engineering, Indian Institute Technology Delhi** 2015-2019
 
 # Research 
