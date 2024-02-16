@@ -2,7 +2,7 @@
 title: "Upcoming -- Magnetic moment analysis for fast redox monitoring in Li-rich transition metal oxides"
 collection: publications
 permalink: /publication/2024-magmom
-# date: 2023-05-15
+date: 2024-05-15
 venue: 'Not published yet'
 lead: true
 ---
