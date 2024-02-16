@@ -5,6 +5,17 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **Capturing Electrochemical Signatures of Real Space Twisted Bilayer Graphene Domains** 
+
+    **Mohammad Babar**, V Viswanathan. *APS physics conference*, Minneapolis, Minnesota (March 2024)
+
+- **Enhanced Electrochemical Activity Volcanoes in Flat-Band Twisted Trilayer Graphene** 
+
+    **Mohammad Babar**, Z Zhu, R Kurchin, V Viswanathan. *244th ECS meeting*, Gothenburgh, Sweden (Oct 2023)
+
+- **Twisto-electrochemical activity volcanoes in Trilayer Graphene** (poster)
+
+    **Mohammad Babar**, Z Zhu, R Kurchin, V Viswanathan. *APS Physics GERA workshop*, Las Vegas, NV (March 2023)
 
 - **Effect of Disorder and Doping on Electronic Structure of Li<sub>3</sub>V<sub>2</sub>O<sub>5</sub>** (poster)
 
