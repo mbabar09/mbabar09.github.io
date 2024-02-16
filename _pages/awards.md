@@ -5,6 +5,18 @@ permalink: /awards/
 author_profile: true
 ---
 
+- **2023: Rackham Graduate Travel Award**
+
+    Title: Enhanced Electrochemical Activity Volcanoes in Flat-Band Twisted Trilayer Graphene
+
+    244th ECS Meeting in Gothenburg, Sweden
+
+- **2023: APS Conference Best Poster Award**
+
+    Title: Twisto-electrochemical activity volcanoes in Trilayer Graphene
+
+    APS Physics March Meeting GERA Energy Workshop
+
 - **2022: PQI Conference Best Poster Award**
 
     Effect of Disorder and Doping on Electronic Structure of Li<sub>3</sub>V<sub>2</sub>O<sub>5</sub>
