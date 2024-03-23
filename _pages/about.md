@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in [Prof. Venkatasubramanian Viswanathan's group](https://www.cmu.edu/me/venkatgroup/) in the department of Mechanical Engineering at University of Michigan. My broad interests are in electrochemical kinetics, solid state physics, machine learning and density functional theory in energy materials. 
+I'm a PhD candidate in [Prof. Venkatasubramanian Viswanathan's group](https://www.cmu.edu/me/venkatgroup/) in the department of Mechanical Engineering at University of Michigan. My broad interests are in electrochemical kinetics, ion-transport, voltammetry, electronic structure, machine learning and density functional theory in energy materials. 
 
 # Bio
 - **PhD Mechanical Engineering, University of Michigan** 2023 - present
@@ -16,7 +16,8 @@ I'm a PhD candidate in [Prof. Venkatasubramanian Viswanathan's group](https://ww
 - **B.Tech Mechanical Engineering, Indian Institute Technology Delhi** 2015-2019
 
 # Research 
-- Ab-initio electronic and structural properties of materials 
+- Ab-initio electronic and structural properties of materials
+- Finite element implementation of ion-transport and voltammetry 
 - Investigation of anionic redox in lithium-rich transition metal oxides 
 - Electrochemical kinetics/models in twisted flat band systems
 - Machine learning energetics of electrode materials  
