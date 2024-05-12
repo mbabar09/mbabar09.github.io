@@ -2,7 +2,7 @@
 title: "Twisto-electrochemical activity volcanoes in Trilayer Graphene"
 collection: publications
 permalink: /publication/Trilayer-MHC
-date: 2023-05-31
+date: 2024-05-09
 venue: 'Journal of American Chemical Society (JACS)'
 lead: true
 ---
