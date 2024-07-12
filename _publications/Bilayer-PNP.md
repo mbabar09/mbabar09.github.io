@@ -1,5 +1,5 @@
 ---
-title: "Real Space Electrochemical Resolution of Twisted Bilayer Graphene Domains"
+title: "Modeling Scanning Electrochemical Cell Microscopy (SECCM) in Twisted Bilayer Graphene"
 collection: publications
 permalink: /publication/Bilayer-PNP
 date: 2024-02-11
