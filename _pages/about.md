@@ -17,10 +17,11 @@ I'm a PhD candidate in [Prof. Venkatasubramanian Viswanathan's group](https://ww
 
 # Research 
 - Ab-initio electronic and structural properties of materials
-- Finite element implementation of ion-transport and voltammetry 
-- Investigation of anionic redox in lithium-rich transition metal oxides 
-- Electrochemical kinetics/models in twisted flat band systems
-- Machine learning energetics of electrode materials  
+- Machine learning energetics of Li-ion electrode materials  
+- Investigation of anionic redox in Li-rich transition metal oxides 
+- Electrochemical kinetics in twisted flat band systems
+- Finite element analysis of ion-transport and voltammetric responses
+
 
 # Summary of Thesis
 
