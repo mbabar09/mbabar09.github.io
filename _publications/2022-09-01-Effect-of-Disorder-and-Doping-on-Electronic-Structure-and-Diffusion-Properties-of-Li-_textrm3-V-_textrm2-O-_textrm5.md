@@ -10,3 +10,4 @@ lead: true
 We used first principle DFT to probe the possibility of oxygen redox from disorder and (anionic/cationic) doping in the excess Lithium Vanadium Oxide. We also quantified the ease of Lithium diffusion in disorder for fast charging applications.
 \[[link](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c03345){:target="_blank"}\]
 
+![toc_lvo](https://github.com/user-attachments/assets/5f8823a2-ccd9-4a1e-a889-921c0d5be67a)
