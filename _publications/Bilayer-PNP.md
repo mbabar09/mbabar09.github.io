@@ -1,6 +1,7 @@
 ---
 title: "Modeling Scanning Electrochemical Cell Microscopy (SECCM) in Twisted Bilayer Graphene"
 collection: publications
+permalink: /publication/Bilayer-PNP
 date: 2024-02-11
 venue: 'Journal of Physical Chemistry Letters'
 image: '../files/toc_pnp.png'
